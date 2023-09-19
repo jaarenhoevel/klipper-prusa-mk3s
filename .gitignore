@@ -1,3 +1,5 @@
 .moonraker.conf.bkp
 printer-*.cfg
 printer.cfg
+moonraker-obico-update.cfg
+moonraker-obico.cfg
